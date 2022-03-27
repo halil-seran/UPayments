@@ -2,18 +2,18 @@ I could not complete all expected functionalities of project because time was no
 if i had a few more days, i would complete it.
 But i did my best...
 
-<img src="UPayments/assets/Upayment1.jpeg" width="250" height="250"/>
+<img src="https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpeg?raw=true" width="250" height="250"/>
 
 ![My Image](/assets/Upayment1.jpeg)
 
-![foxdemo](assets/Upayment1.jpeg)
+![foxdemo](https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpeg?raw=true)
 
 
-![Alt text](url "assets/Upayment1.jpeg")
+![Alt text](url "https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpeg?raw=true")
 
 
-<img src="assets/Upayment1.jpeg" width="50%" height="50%">
+<img src="https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpeg?raw=true" width="50%" height="50%">
 
 
 	
-![image](assets/Upayment1.jpeg)
+![image](https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpeg?raw=true)
