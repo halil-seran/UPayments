@@ -7,3 +7,9 @@ But i did my best...
 ![My Image](/assets/Upayment1.jpeg)
 
 ![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
+
+
+![Alt text](url "https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpeg")
+
+
+<img src="https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpe" width="50%" height="50%">
