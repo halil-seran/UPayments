@@ -12,4 +12,8 @@ But i did my best...
 ![Alt text](url "https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpeg")
 
 
-<img src="https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpe" width="50%" height="50%">
+<img src="https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpeg" width="50%" height="50%">
+
+
+	
+![image](https://github.com/halil-seran/UPayments/blob/master/assets/Upayment1.jpeg?raw=true)
