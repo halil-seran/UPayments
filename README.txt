@@ -6,14 +6,14 @@ But i did my best...
 
 ![My Image](/assets/Upayment1.jpeg)
 
-![foxdemo](https://raw.githubusercontent.com/halil-seran/UPayments/master/assets/Upayment1.jpeg)
+![foxdemo](assets/Upayment1.jpeg)
 
 
-![Alt text](url "https://raw.githubusercontent.com/halil-seran/UPayments/master/assets/Upayment1.jpeg")
+![Alt text](url "assets/Upayment1.jpeg")
 
 
-<img src="https://raw.githubusercontent.com/halil-seran/UPayments/master/assets/Upayment1.jpeg" width="50%" height="50%">
+<img src="assets/Upayment1.jpeg" width="50%" height="50%">
 
 
 	
-![image](https://raw.githubusercontent.com/halil-seran/UPayments/master/assets/Upayment1.jpeg)
+![image](assets/Upayment1.jpeg)
