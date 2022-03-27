@@ -4,4 +4,6 @@ But i did my best...
 
 <img src="UPayments/assets/Upayment1.jpeg" width="250" height="250"/>
 
-![My Image](UPayments/assets/Upayment1.jpeg)
+![My Image](/assets/Upayment1.jpeg)
+
+![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
